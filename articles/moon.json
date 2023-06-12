@@ -1,0 +1,52 @@
+[
+  {
+    "data": "13/06/2023",
+    "name": "New Moon",
+    "text": "New Moon is when the Moon is between the Earth and the Sun."
+  },
+  {
+    "data": "20/06/2023",
+    "name": "First Quarter",
+    "text": "First Quarter is when the Moon is halfway to being full."
+  },
+  {
+    "data": "27/06/2023",
+    "name": "Full Moon",
+    "text": "Full Moon is when Earth is between the Moon and the Sun."
+  },
+  {
+    "data": "04/07/2023",
+    "name": "Last Quarter",
+    "text": "Last Quarter is when the Moon is halfway to being new."
+  },
+  {
+    "data": "11/07/2023",
+    "name": "New Moon",
+    "text": "During New Moon, the Moon is invisible as it's between Earth and the Sun."
+  },
+  {
+    "data": "18/07/2023",
+    "name": "First Quarter",
+    "text": "In the First Quarter, the Moon is half visible."
+  },
+  {
+    "data": "25/07/2023",
+    "name": "Full Moon",
+    "text": "During Full Moon, the Moon is fully illuminated by the Sun."
+  },
+  {
+    "data": "01/08/2023",
+    "name": "Last Quarter",
+    "text": "In the Last Quarter, we see only half of the Moon."
+  },
+  {
+    "data": "08/08/2023",
+    "name": "New Moon",
+    "text": "New Moon phase is ideal for observing stars and galaxies."
+  },
+  {
+    "data": "15/08/2023",
+    "name": "First Quarter",
+    "text": "First Quarter is a good time to observe the Moon's surface."
+  }
+]
